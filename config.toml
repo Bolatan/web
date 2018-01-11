@@ -4,8 +4,8 @@ baseurl = "http://example.org/"
 theme = "prologue"
 
 [params]
-  name = "Jane Doe"
-  description = "Hyperspace Engineer"
+  name = "Tech Trends"
+  description = "Technology company"
   copyright = "Untitled."
 
 [[params.social]]
